@@ -1,11 +1,13 @@
-# Quizz Guess the flag
+# Guess this flag
+
+![img](./extras/quizz_flag.gif)
 
 ## TODO
 
 - [x] Manage screens (question + answer + end)
 - [x] Create a question
 - [x] Manage click on answer card
-- [ ] Style it up!
+- [x] Style it up!
 
 ### Optional
 
